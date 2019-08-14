@@ -6,7 +6,7 @@ spring:
 spring:
   profiles: dev   #开发环境
   application:
-    name: greecloud-config-bdqn-dev
+    name: wtycloud-config-wty-dev
 ---
 spring:
   profiles: test  #测试环境
